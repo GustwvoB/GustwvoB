@@ -19,7 +19,9 @@ Sou **Gustavo Barbosa Oliveira**, tenho 19 anos e moro em **Brasília, DF**.
 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB. Possuo conhecimento em:
 * **Lógica de Programação**
 * **Desenvolvimento Web** (HTML, CSS e JavaScript)
-* **SQL** e **Banco de Dados**
+* **Python (Iniciante)**
+* **Power BI**
+* **Análise de Dados**
 
 Busco constantemente aplicar meus conhecimentos em projetos práticos e estou aberto a novas experiências!
 
