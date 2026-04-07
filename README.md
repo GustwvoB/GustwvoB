@@ -7,7 +7,7 @@
 # 👨🏽‍💻​ Gustavo Barbosa
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Desenvolvedor%20Web-0A416E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Developer%20-0A416E?style=for-the-badge" />
 </div>
 
 <br>
@@ -44,7 +44,7 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e estou ab
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://img.shields.io/badge/Power%20BI-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Power BI Badge"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
 </p>
 
