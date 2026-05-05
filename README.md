@@ -7,7 +7,7 @@
 # 👨🏽‍💻​ Gustavo Barbosa
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Developer%20-0A416E?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Beginner%20Developer%20-0A416E?style=for-the-badge" />
 </div>
 
 <br>
@@ -23,11 +23,10 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** no UniCE
 * **Power BI**
 * **Análise de Dados**
 
-Busco constantemente aplicar meus conhecimentos em projetos práticos e estou aberto a novas experiências!
 
 <br>
 
-## Conecte-se Comigo
+## Contatos
 
 | Plataforma | Link |
 | :--- | :--- |
@@ -45,7 +44,6 @@ Busco constantemente aplicar meus conhecimentos em projetos práticos e estou ab
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/Power%20BI-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Power BI Badge"/>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
 </p>
 
 <br>
