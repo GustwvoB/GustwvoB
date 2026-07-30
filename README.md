@@ -14,9 +14,9 @@
 
 ## Sobre Mim
 
-Sou **Gustavo Barbosa Oliveira**, tenho 19 anos e moro em **Brasília, DF**.
+Sou **Gustavo Barbosa Oliveira**, tenho 20 anos e moro em **Brasília, DF**.
 
-Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB. Possuo conhecimento em:
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **UniCEUB**. Possuo conhecimento em:
 * **Lógica de Programação**
 * **Desenvolvimento Web** (HTML, CSS e JavaScript)
 * **Python (Iniciante)**
