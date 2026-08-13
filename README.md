@@ -7,7 +7,7 @@
   
   <p>
     <img src="https://img.shields.io/badge/Estudante%20de%20ADS-0A416E?style=for-the-badge&logo=degreed&logoColor=white" alt="Estudante de ADS" />
-    <img src="https://img.shields.io/badge/Desenvolvedor%20em%20Formação-007ACC?style=for-the-badge" alt="Beginner Developer" />
+    <img src="https://img.shields.io/badge/Desenvolvedor%20em%20Formação-007ACC?style=for-the-badge" alt="Desenvolvedor" />
   </p>
 
   <p>
